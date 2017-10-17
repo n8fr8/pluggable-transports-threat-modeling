@@ -1,39 +1,24 @@
-
-
-  
-
-
 ## Definition of Components
 
+Pluggable Transport:
 
-
-Pluggable Transport:  
-
-
-Localhost:
+**Localhost:** 
 
 127.0.0.1
 
-VPS:
+**VPS: **
 
-A virtual private server \(VPS\) is an access controlled server that may provide 
+A virtual private server \(VPS\) is an access controlled server that may provide
 
-Developer:
+**Developer:** 
 
 A programmer that implements a pluggable transport with their application.
 
-Model
-
-e
-
-r:
+**Modeler:**
 
 A designer who develops and implents new transport protocols.
 
-System Admin:
+**System Admin:**
 
 A user with escalated privledges on one or more machines in a local area network.
-
-  
-
 
