@@ -1,6 +1,6 @@
 ## Chapter 7: People and Stories
 
-![](https://i.ytimg.com/vi/DkEqWGF3cvg/maxresdefault.jpg)
+![](/assets/toruser.jpg)
 
 \*\*\*\*\*
 
