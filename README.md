@@ -8,5 +8,10 @@ This book was generated from a live collaborative document available here:
 
 [https://pad.riseup.net/p/pt-threat-modeling](https://pad.riseup.net/p/pt-threat-modeling)
 
+and is also available on Gitbook at:  
+https://www.gitbook.com/book/n8fr8/thoughtful-threat-modeling-for-pluggable-transpor
+
+
+
 ![](/assets/plug_n_tor.png)
 
