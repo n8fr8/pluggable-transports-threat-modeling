@@ -1,4 +1,8 @@
-# Free the Net, but Do No Harm
+# What Are Pluggable Transports?
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Pluggable​ ​ Transports​ ​ \(PTs\)​ ​ are​ ​ a ​ ​ generic​ ​ mechanism​ ​ for​ ​ the​ ​ rapid​ ​ development​ ​ and deployment​ ​ of​ ​ censorship​ ​ circumvention,​ ​ based​ ​ around​ ​ the​ ​ idea​ ​ of​ ​ modular​ ​ transports​ ​ that transform​ ​ traffic​ ​ to​ ​ defeat​ ​ censors.
+
+This book was generated from a live collaborative document available here:
+
+[https://pad.riseup.net/p/pt-threat-modeling](https://pad.riseup.net/p/pt-threat-modeling)
 

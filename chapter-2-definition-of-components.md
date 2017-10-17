@@ -1,8 +1,8 @@
-## Definition of Components
+## Chapter 2: Definition of Components
 
 Pluggable Transport:
 
-**Localhost:** 
+**Localhost:**
 
 127.0.0.1
 
@@ -10,7 +10,7 @@ Pluggable Transport:
 
 A virtual private server \(VPS\) is an access controlled server that may provide
 
-**Developer:** 
+**Developer:**
 
 A programmer that implements a pluggable transport with their application.
 
